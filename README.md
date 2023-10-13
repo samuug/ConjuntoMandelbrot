@@ -1,7 +1,7 @@
 # ConjuntoMandelbrot
 
 ## Nota:
-Mi repositorio es: 
+Mi repositorio es: https://github.com/samuug/ConjuntoMandelbrot.git
 
 ## Enunciado:
 Práctica de Concurrencia con Java Executors: Cálculo y Visualización del Conjunto de Mandelbrot
